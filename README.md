@@ -2,6 +2,7 @@
 
 
 |HTTP Verb|Path|Controller#Action|Used for|
+|---------|----|-----------------|--------|
 |GET|/users|users#index|display a list of all users|
 |GET|/users/new|users#new|return an HTML form for creating a new user|
 |POST|/users|users#create|create a new user|
